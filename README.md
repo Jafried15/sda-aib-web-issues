@@ -1,6 +1,6 @@
-# SDA AIB Web – Fehler & Funktionswünsche
+# Adventgemeinde Bad Aibling Website – Fehler & Funktionswünsche
 
-Willkommen im öffentlichen Issue-Tracker für die **SDA AIB Web**-Anwendung. Hier können Nutzerinnen und Nutzer Fehler melden sowie neue Funktionen vorschlagen, ohne technische Vorkenntnisse zu benötigen.
+Willkommen im öffentlichen Issue-Tracker für die **Adventgemeinde Bad Aibling Website**. Hier können Nutzerinnen und Nutzer Fehler melden sowie neue Funktionen vorschlagen, ohne technische Vorkenntnisse zu benötigen.
 
 > **Hinweis:** Der eigentliche Quellcode der Anwendung befindet sich in einem separaten, privaten Repository und ist nicht öffentlich einsehbar. Dieses Repository dient ausschließlich der Kommunikation rund um Fehler und Verbesserungsvorschläge.
 
@@ -21,7 +21,7 @@ Willkommen im öffentlichen Issue-Tracker für die **SDA AIB Web**-Anwendung. Hi
 
 Dieses Repository ist der zentrale Ort, um:
 
-- **Fehler** in der SDA AIB Web-Anwendung zu melden, die du beim Benutzen festgestellt hast.
+- **Fehler** in der Adventgemeinde Bad Aibling Website zu melden, die du beim Benutzen festgestellt hast.
 - **Neue Funktionen** oder Verbesserungen vorzuschlagen, die dir die Arbeit erleichtern würden.
 
 Die Entwicklerin / der Entwickler kann so alle Rückmeldungen an einem Ort einsehen, priorisieren und bearbeiten.
