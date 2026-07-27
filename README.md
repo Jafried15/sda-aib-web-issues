@@ -2,8 +2,6 @@
 
 Willkommen im öffentlichen Issue-Tracker für die **Adventgemeinde Bad Aibling Website**. Hier können Nutzerinnen und Nutzer Fehler melden sowie neue Funktionen vorschlagen, ohne technische Vorkenntnisse zu benötigen.
 
-> **Hinweis:** Der eigentliche Quellcode der Anwendung befindet sich in einem separaten, privaten Repository und ist nicht öffentlich einsehbar. Dieses Repository dient ausschließlich der Kommunikation rund um Fehler und Verbesserungsvorschläge.
-
 ---
 
 ## Inhaltsverzeichnis
